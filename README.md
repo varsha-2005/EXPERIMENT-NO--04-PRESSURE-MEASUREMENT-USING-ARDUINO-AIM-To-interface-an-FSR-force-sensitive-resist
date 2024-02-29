@@ -62,6 +62,7 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ![Screenshot 2024-02-29 113508](https://github.com/varsha-2005/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119288183/5ae46646-bbdd-4d3b-a2e0-fa575f58d3c2)
 
+## SCHEMATIC REPRESENTAION 
 ![Screenshot 2024-02-29 113602](https://github.com/varsha-2005/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119288183/7c3bfd15-6cc5-4004-9d67-7b95674b0fbd)
 
 
@@ -120,9 +121,10 @@ void loop()
  
 ```
 
-
+## TABLE:
 ![Screenshot 2024-02-29 113447](https://github.com/varsha-2005/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119288183/692352de-4347-4c6d-984f-d011da9c7277)
 
+## GRAPH:
 ![Screenshot 2024-02-29 113434](https://github.com/varsha-2005/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119288183/216905c1-b1d0-4629-a60b-7ee1e0ebc777)
 
 
@@ -156,4 +158,5 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 
 
-### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
+### RESULT : 
+Arduino uno is interfaced with FSR and output values are indicated on a graph.
